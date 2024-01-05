@@ -48,13 +48,13 @@ pip install -r requirements.txt
 
 Of course a copy of PGT source code is required, which can be obtained via one of the following choices:
 
-- Clone the whole repo with git: `git clone https://github.com/JiaXingou/mialab.git
-- Clone the minimum required part of repo: `git clone https://github.com/JiaXingou/mialab.git `
-- Get the source code of a stable version from [here](https://github.com/JiaXingou/mialab)
+- Clone the whole repo with git: `git clone https://github.com/RUC-MIALAB/PGT.git
+- Clone the minimum required part of repo: `git clone https://github.com/RUC-MIALAB/PGT.git --depth=1 `
+- Get the source code of a stable version from [here](https://github.com/RUC-MIALAB/PGT)
 
 ### Update to latest release
 
-Please check the [release page](https://github.com/JiaXingou/mialab) for the release note of a new version.
+Please check the [release page](https://github.com/RUC-MIALAB/PGT/releases) for the release note of a new version.
 
 It is OK to download the new source code from beginning following the previous step.
 
