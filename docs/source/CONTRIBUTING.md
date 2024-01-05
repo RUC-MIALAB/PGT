@@ -1,4 +1,4 @@
-# Contributing to PSAIA
+# Contributing to PGT
 
 First of all, thank you for taking time to make contributions to PGT!
 This file provides the more technical guidelines on how to realize it.
