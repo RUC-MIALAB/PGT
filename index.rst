@@ -1,4 +1,4 @@
-.. PSAIA documentation master file, created by
+.. PGT documentation master file, created by
    sphinx-quickstart on Fri Mar 11 10:42:27 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -14,8 +14,8 @@ This is a program to predict inter-chain contact map for homologous protein comp
    :caption: Quick Start:
 
    quick_start/easy_install
+   quick_start/How_to_Read_the_results
    quick_start/hands_on
-   quick_start/input
 
 .. toctree::
    :maxdepth: 2
@@ -33,7 +33,7 @@ This is a program to predict inter-chain contact map for homologous protein comp
 
 .. toctree::
    :maxdepth: 2
-   :caption: Citing ABACUS
+   :caption: Citing PGT
 
    CITATIONS
 
